@@ -3,17 +3,22 @@
 
 ### Questions
 
-1.	Algorithms and Data Structures
+1. Algorithms and Data Structures
 
-1.2.	You were given an array of unknown length containing sorted elements that if you access a random position out of the bounds of the array an exception is thrown. Describe an efficient algorithm to search an element.
+1.2. You were given an array of unknown length containing sorted elements that if you access a random position out of the bounds of the array an exception is thrown. Describe an efficient algorithm to search an element.
 
-1.3.	Consider the graph to the right:
+1.3. Consider the graph to the right:
+
 a)	Starting on node 1, and always visiting nodes from left to the right:
+
 i.	Write the numbers corresponding to the nodes in the order  
+
 ii.	Now do the same using a DFS
+
 b)	Describe an algorithm that could be used to find a path between two nodes of this graph. Give a high-level explanation of it and justify why you chose it
 
-2.	Product Verification 
+2.	Product Verification
+
 1.4.	Write a function that gets a list of songs and needs to play the songs randomly so that in each play each song will only be heard once. The number of songs is unknown.
 
 3.	Scripting
