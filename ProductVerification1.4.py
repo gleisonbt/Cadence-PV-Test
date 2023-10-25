@@ -2,7 +2,7 @@ import random
 
 def list_of_songs(songslist):
     
-    songstoplay = songslist[:] #Clone the songslist into songstoplay
+    songstoplay = songslist[:] #oie
 
     while songstoplay != []:
         choosed_song = random.randrange(len(songstoplay)) #Randomly choosing some song from the list
